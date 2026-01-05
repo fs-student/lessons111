@@ -74,13 +74,13 @@ from itertools import count
 #         break
 # if s:
 #     print("Цикл завершен")
-a = int(input())
-i = 0
-while i < 10:
-    i += 1
-    print(a,"*",i,"=",a*i)
-
-
+# a = int(input())
+# i = 0
+# while i < 10:
+#     i += 1
+#     print(a,"*",i,"=",a*i)
+#
+\
 
 
 
