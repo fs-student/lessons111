@@ -80,8 +80,6 @@ from itertools import count
 #     i += 1
 #     print(a,"*",i,"=",a*i)
 #
-\
-
 
 
 
